@@ -23,6 +23,28 @@
   note: Mandatory abstract deadline on May 30 2025.
   tags: [CO, SPT]
 
+- name: CIKM Demo/Resource
+  description: ACM Conference on Information and Knowledge Management - Demo & Resource Papers
+  year: 2025
+  link: https://cikm2025.org/calls/demo-papers
+  deadline: 
+  - "2025-06-17 23:59"
+  date: November 11 - November 14, 2025
+  place: Seoul, South Korea
+  note: Mandatory abstract deadline on June 10 2025.
+  tags: [CO, DT]
+
+- name: CIKM PhD Symposium
+  description: ACM Conference on Information and Knowledge Management - PhD Symposium
+  year: 2025
+  link: https://cikm2025.org/calls/phd-symposium
+  deadline: 
+  - "2025-06-27 23:59"
+  date: November 10, 2025
+  place: Seoul, South Korea
+  note: 
+  tags: [CO, PHD]
+
 # ICDM   
 - name: ICDM
   description: IEEE International Conference on Data Mining
