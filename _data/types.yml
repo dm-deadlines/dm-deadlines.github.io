@@ -31,12 +31,8 @@
   type: track
   
 # Others
-
-- name: Resource and Demo
-  tag: RD
-  type: others
-- name: Doctoral symposium
-  tag: DOS
+- name: PhD symposium
+  tag: PHD
   type: others
 - name: New faculty symposium
   tag: NFS
