@@ -7,5 +7,6 @@ baseurl: ""
 
 github_username: dm-deadlines
 github_repo: dm-deadlines.github.io
+ga_id: G-KQJ3BNL75F
 
 markdown: kramdown
