@@ -22,3 +22,15 @@
   place: Seoul, South Korea
   note: Mandatory abstract deadline on May 30 2025.
   tags: [CO, SPT]
+
+# ICDM   
+- name: ICDM
+  description: IEEE International Conference on Data Mining
+  year: 2025
+  link: https://www3.cs.stonybrook.edu/~icdm2025/cfp.html
+  deadline: 
+  - "2025-06-06 23:59:59"
+  date: November 12 - November 15, 2025
+  place: Washington DC, USA
+  note: 
+  tags: [CO, FPT]
