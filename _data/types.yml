@@ -1,0 +1,79 @@
+---
+#Venue type
+- name: Conference
+  tag: CO
+  type: venue
+- name: Journal
+  tag: JO
+  type: venue
+- name: Workshop
+  tag: WO
+  type: venue
+
+#Track types
+- name: Research paper track
+  tag: RPT
+  type: track
+- name: Short paper track
+  tag: SPT
+  type: track
+- name: In practice track
+  tag: IPT
+  type: track
+- name: Society track
+  tag: SOT
+  type: track
+- name: Education track
+  tag: EDT
+  type: track
+- name: Journal first track
+  tag: JFT
+  type: track
+- name: Tool track
+  tag: TOT
+  type: track
+- name: New ideas and emerging results track
+  tag: NIER
+  type: track
+- name: Registered reports track
+  tag: RRT
+  type: track
+- name: Research projects track
+  tag: RPT
+  type: track
+- name: Experience papers track
+  tag: EXPT
+  type: track
+- name: Data and Benchmarking track
+  tag: DB
+  type: track
+  
+# Others
+
+- name: Artifact track
+  tag: ART
+  type: others
+- name: Doctoral symposium
+  tag: DOS
+  type: others
+- name: New faculty symposium
+  tag: NFS
+  type: others
+- name: Student research competition
+  tag: SRC
+  type: others
+- name: Late breaking track
+  tag: LBT
+  type: others
+- name: Tutorials and technical briefings track
+  tag: TTBT
+  type: others
+- name: Replicability studies track
+  tag: REST
+  type: others
+- name: Challenge track
+  tag: CHT
+  type: others
+- name: Fast abstracts track
+  tag: FAB
+  type: others

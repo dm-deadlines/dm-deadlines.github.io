@@ -1,0 +1,13 @@
+---
+
+# CIKMs
+- name: CIKM
+  description: Conference on Information and Knowledge Management - Research Track
+  year: 2025
+  link: https://cikm2025.org
+  deadline: 
+  - "2025-05-23 23:59"
+  date: November 11 - November 14, 2025
+  place: Seoul, South Korea
+  note: Mandatory abstract deadline on May 16 2025.
+  tags: [CO, RPT]
