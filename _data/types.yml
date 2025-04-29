@@ -40,8 +40,8 @@
 - name: Student research competition
   tag: SRC
   type: others
-- name: Tutorials and technical briefings track
-  tag: TTBT
+- name: Tutorials
+  tag: TT
   type: others
 - name: Replicability studies track
   tag: REST
