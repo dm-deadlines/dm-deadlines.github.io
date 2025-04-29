@@ -1,4 +1,4 @@
-# DM deadlines countdown
+# Data Mining & Information Retrieval Deadlines Countdown
 
 Based on [ai-deadlines](https://aideadlin.es) by @abshkdz, [sec-deadlines](https://sec-deadlines.github.io), and [se-deadlines](https://se-deadlines.github.io)
 
