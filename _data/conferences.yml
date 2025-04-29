@@ -56,3 +56,36 @@
   place: Washington DC, USA
   note: 
   tags: [CO, FPT]
+
+- name: ICDM PhD Forum
+  description: IEEE International Conference on Data Mining - PhD Forum
+  year: 2025
+  link: https://icdm25phd.github.io/
+  deadline: 
+  - "2025-06-06 23:59:59"
+  date: November 12 - November 15, 2025
+  place: Washington DC, USA
+  note: 
+  tags: [CO, PHD]
+
+- name: ICDM Tutorials
+  description: IEEE International Conference on Data Mining - Tutorials
+  year: 2025
+  link: https://www3.cs.stonybrook.edu/~icdm2025/cft.html
+  deadline: 
+  - "2025-09-05 23:59"
+  date:  November 12 - November 15, 2025
+  place: Washington DC, USA
+  note: 
+  tags: [CO, TT]
+
+- name: ICDM Demo
+  description: IEEE International Conference on Data Mining - Demo
+  year: 2025
+  link: https://icdm25demo.github.io/
+  deadline: 
+  - "2025-09-05 23:59"
+  date:  November 12 - November 15, 2025
+  place: Washington DC, USA
+  note: 
+  tags: [CO, DT]
