@@ -11,20 +11,14 @@
   type: venue
 
 #Track types
-- name: Research paper track
-  tag: RPT
+- name: Full paper track
+  tag: FPT
   type: track
 - name: Short paper track
   tag: SPT
   type: track
-- name: In practice track
-  tag: IPT
-  type: track
-- name: Society track
-  tag: SOT
-  type: track
-- name: Education track
-  tag: EDT
+- name: Applied paper track
+  tag: APT
   type: track
 - name: Journal first track
   tag: JFT
@@ -32,26 +26,14 @@
 - name: Tool track
   tag: TOT
   type: track
-- name: New ideas and emerging results track
-  tag: NIER
-  type: track
-- name: Registered reports track
-  tag: RRT
-  type: track
-- name: Research projects track
-  tag: RPT
-  type: track
-- name: Experience papers track
-  tag: EXPT
-  type: track
 - name: Data and Benchmarking track
   tag: DB
   type: track
   
 # Others
 
-- name: Artifact track
-  tag: ART
+- name: Resource and Demo
+  tag: RD
   type: others
 - name: Doctoral symposium
   tag: DOS
@@ -61,9 +43,6 @@
   type: others
 - name: Student research competition
   tag: SRC
-  type: others
-- name: Late breaking track
-  tag: LBT
   type: others
 - name: Tutorials and technical briefings track
   tag: TTBT
