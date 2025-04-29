@@ -45,6 +45,17 @@
   note: 
   tags: [CO, PHD]
 
+- name: CIKM PhD Tutorials
+  description: ACM Conference on Information and Knowledge Management - Tutorials
+  year: 2025
+  link: https://cikm2025.org/calls/tutorials
+  deadline: 
+  - "2025-06-14 23:59"
+  date: November 10, 2025
+  place: Seoul, South Korea
+  note: 
+  tags: [CO, TT]
+
 # ICDM   
 - name: ICDM
   description: IEEE International Conference on Data Mining
