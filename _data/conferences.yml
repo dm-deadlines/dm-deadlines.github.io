@@ -113,3 +113,28 @@
   place: Montréal, Canada
   note: IEEE ICDE 2026 will have two rounds of research paper submissions with each round involving two reviewing phases.
   tags: [CO, FPT]
+
+
+# VLDB
+- name: VLDB
+  description: International Conference on Very Large Data Bases
+  year: 2026
+  link: https://www.vldb.org/2026/
+  deadline: 
+  - '2025-04-01 17:00:00'
+  - '2025-05-01 17:00:00'
+  - '2025-06-01 17:00:00'
+  - '2025-07-01 17:00:00'
+  - '2025-08-01 17:00:00'
+  - '2025-09-01 17:00:00'
+  - '2025-10-01 17:00:00'
+  - '2025-11-01 17:00:00'
+  - '2025-12-01 17:00:00'
+  - '2026-01-01 17:00:00'
+  - '2026-02-01 17:00:00'
+  - '2026-03-01 17:00:00'
+  timezone: UTC-7
+  date: August 31 - September 4, 2026
+  place: Boston, MA, USA
+  note: 
+  tags: [CO, FPT, DB]
