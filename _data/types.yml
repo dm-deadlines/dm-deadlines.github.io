@@ -20,11 +20,11 @@
 - name: Applied paper track
   tag: APT
   type: track
+- name: Demo paper track
+  tag: DT
+  type: track
 - name: Journal first track
   tag: JFT
-  type: track
-- name: Tool track
-  tag: TOT
   type: track
 - name: Data and Benchmarking track
   tag: DB
