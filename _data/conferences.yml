@@ -100,3 +100,16 @@
   place: Washington DC, USA
   note: 
   tags: [CO, DT]
+
+# ICDE
+- name: ICDE
+  description: IEEE International Conference on Data Engineering
+  year: 2026
+  link: https://icde2026.github.io/cf-research-papers.html
+  deadline: 
+  - "2025-06-11 23:59:59"
+  - "2025-10-27 23:59:59"
+  date: May 4 - May 8, 2026
+  place: Montréal, Canada
+  note: IEEE ICDE 2026 will have two rounds of research paper submissions with each round involving two reviewing phases.
+  tags: [CO, FPT]
