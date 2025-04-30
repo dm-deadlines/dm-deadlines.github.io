@@ -125,6 +125,17 @@
   note: 
   tags: [CO, APT]
 
+- name: ICDE Demonstrations
+  description: IEEE International Conference on Data Engineering - Demonstrations Track
+  year: 2026
+  link: https://icde2026.github.io/cf-demonstrations.html
+  deadline: 
+  - "TBA"
+  date: May 4 - May 8, 2026
+  place: Montréal, Canada
+  note: 
+  tags: [CO, DT]
+
 
 # VLDB
 - name: VLDB
